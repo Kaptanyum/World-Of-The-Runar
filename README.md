@@ -1,3 +1,3 @@
 # World-Of-The-Runar
 
-A Project Developing By CoreBlaze Indie Game Studio
+**A Project Developing By CoreBlaze Indie Game Studio**
